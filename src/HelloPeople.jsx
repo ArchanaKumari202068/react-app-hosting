@@ -1,8 +1,9 @@
 import React from 'react'
+import "../src/HelloPeople.css"
 
 const HelloPeople = () => {
   return (
-    <div><h1 style={{"text-align":"center"}}>Hello People...!</h1></div>
+    <div><h1>Hello People👋...!</h1></div>
   )
 }
 
